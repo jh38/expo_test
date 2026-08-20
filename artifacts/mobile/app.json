@@ -4,6 +4,11 @@
     "slug": "mobile",
     "owner": "jh38",
     "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "727a32ac-c426-44c2-866f-52b7b24720cb"
+      }
+    },
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "mobile",
