@@ -1,0 +1,1 @@
+- [Local backup design](local-backup-design.md) — keep device-local data portable with a versioned JSON export and restore flow.
