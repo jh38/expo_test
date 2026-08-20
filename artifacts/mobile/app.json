@@ -2,6 +2,7 @@
   "expo": {
     "name": "청소 스케줄",
     "slug": "mobile",
+    "owner": "jh38",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
